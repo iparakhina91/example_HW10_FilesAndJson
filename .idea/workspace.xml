@@ -5,22 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="418e928c-145b-4a6b-a731-71863f712e8d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JacksonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ZipUnpackingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/Homework10.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/order.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JacksonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JacksonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/order.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/order.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +60,7 @@
       <recent name="C:\Users\Irina\IdeaProjects\example_HW_10\src\test\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.JacksonTest">
+  <component name="RunManager" selected="Gradle.ZipUnpackingTest">
     <configuration name="JacksonTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -190,8 +178,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.JacksonTest" />
         <item itemvalue="Gradle.ZipUnpackingTest" />
+        <item itemvalue="Gradle.JacksonTest" />
         <item itemvalue="Gradle.JacksonTest.jacksonJsonTest" />
         <item itemvalue="Gradle.ZipUnpackingTest.csvParseTest" />
         <item itemvalue="Gradle.ZipUnpackingTest.xlsParseTest" />

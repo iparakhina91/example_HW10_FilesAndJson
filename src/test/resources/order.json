@@ -2,9 +2,18 @@
   "id": "152235",
   "lastname": "Коровина",
   "firstname": "Ирина",
-  "product": "Shirt",
-  "quantity": "2",
-  "size": "XS",
+  "products": [
+    {
+      "name": "Shirt",
+      "size": "XS",
+      "quantity": "1"
+    },
+    {
+      "name": "T-Shirt",
+      "size": "M",
+      "quantity": "5"
+    }
+  ],
   "female": true,
   "contacts": ["88001005230", "irina_korovina@gmail.com"]
 }
